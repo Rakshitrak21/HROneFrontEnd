@@ -1,4 +1,9 @@
 {
+  "name": "HROneFrontEnd",
+  "version": "1.0.0",
+  ...
+}
+{
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
